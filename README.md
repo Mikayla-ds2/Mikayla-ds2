@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Mikayla-ds2
-- 👀 I’m interested in data science, machine learning and backend development.
-- 🌱 I’m currently learning javascript, html, and getting better at python. 
+- 👋 Hi, I’m Mikayla!
+- 👀 I’m interested in data science & machine learning.
+- 🌱 I’m focusing on Python, SQL, and plan to learn dbt soon.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love watching football!
 
 <!---
 Mikayla-ds2/Mikayla-ds2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
