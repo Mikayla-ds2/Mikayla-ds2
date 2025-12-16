@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mikayla!
 - 👀 I’m interested in data science & machine learning.
-- 🌱 I’m focusing on Python, SQL, and plan to learn dbt soon.
+- 🌱 I’m focusing on Python, SQL, and advanced deep learning.
 - 😄 Pronouns: she/her
 
 <!---
